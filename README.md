@@ -1,0 +1,1 @@
+File Compression/Decompression Tool with basic Huffman encoding/decoding
